@@ -1,2 +1,2 @@
 # forecasting_cumulativeLTV
-forecasting cumulative LTV via power law function
+forecasting cumulative LTV via power law function for game project
